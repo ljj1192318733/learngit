@@ -1,5 +1,5 @@
 import random
-#test
+#test,第一次
 #test2
 from PIL import Image
 from PIL import ImageDraw
