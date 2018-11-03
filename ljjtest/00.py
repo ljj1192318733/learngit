@@ -1,6 +1,6 @@
 import random
 #test,第一次
-#dd
+#dd 0.0.
 #test2
 from PIL import Image
 from PIL import ImageDraw
