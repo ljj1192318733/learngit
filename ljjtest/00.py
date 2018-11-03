@@ -1,7 +1,5 @@
 import random
-#test,第一次
-#dd 0.0.
-#test2
+# 第一次
 from PIL import Image
 from PIL import ImageDraw
 from PIL import ImageFilter
