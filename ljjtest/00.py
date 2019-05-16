@@ -3,6 +3,7 @@ import random
 #敌人
 #哦看评价
 #531
+#666
 from PIL import Image
 from PIL import ImageDraw
 from PIL import ImageFilter

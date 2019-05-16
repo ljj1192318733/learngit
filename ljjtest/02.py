@@ -13,4 +13,4 @@ b=[0.70516306, 0.70516306, 0.53527033, 0.53527033, 0.53527033 ,0.6801729,
 a=np.array(a)
 b=np.array(b)
 c=np.array([a,b])
-print(np.corrcoef(c)[0][1])
+print(np.corrcoef(c)[0][1],'ss')
